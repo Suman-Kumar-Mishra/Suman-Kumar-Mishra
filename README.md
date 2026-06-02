@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Suman Kumar Mishra
 
-### 🚀  Machine Learning Engineer | MERN Stack Developer | Data Analyst
+### 🚀  MERN Stack Developer | Machine Learning | Data Analyst
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sumankumarmishra09)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Suman-Kumar-Mishra)
