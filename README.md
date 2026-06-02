@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Suman Kumar Mishra
 
-### 🚀 Backend Engineer | Machine Learning Engineer | MERN Stack Developer
+### 🚀 Backend Engineer | Machine Learning Engineer | MERN Stack Developer | Data Analyst
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sumankumarmishra09)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Suman-Kumar-Mishra)
@@ -143,7 +143,7 @@ My work spans **REST API design, Redis-backed optimization, Celery-based backgro
 
 **🎓 Bachelor of Technology — Computer Science & Engineering**  
 Shri Mata Vaishno Devi University, Katra, J&K  
-`Nov 2022 – May 2026` | **CGPA:  7.29**
+`Nov 2022 – May 2026` | **CGPA:  7.36**
 
 ---
 
@@ -158,8 +158,8 @@ Shri Mata Vaishno Devi University, Katra, J&K
 
 ## 🌱 Leadership & Community
 
-- 🤖 **Core Team Member** — AI/ML Club, SMVDU `Feb 2023 – Present`
-- 🤝 **Volunteer** — National Service Scheme (NSS), SMVDU `Sep 2023 – Present`
+- 🤖 **Core Team Member** — AI/ML Club, SMVDU `Feb 2023 – 2026`
+- 🤝 **Volunteer** — National Service Scheme (NSS), SMVDU `Sep 2023 – 2026`
 
 ---
 
